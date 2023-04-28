@@ -6,3 +6,9 @@ The file contains the .ipynb for the milestone 4 of the project and is written a
 
 **2. CS 418_Milestone 5.2.pdf:**
 The file contains slides about the project presentation, that was used for inclass pre3sentation of the project.
+
+**3. CS418EM-Dat_data.xlsx:**
+The file contains the necessary data required for the collab, it is based on the Em-Dat dataset and is in .xlsx form.
+
+**4. earthquakes.csv:**
+The file contains the necessary data required for processing in the collab. It is based on CORGIS dataset.
