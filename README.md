@@ -12,3 +12,6 @@ The file contains the necessary data required for the collab, it is based on the
 
 **4. earthquakes.csv:**
 The file contains the necessary data required for processing in the collab. It is based on CORGIS dataset.
+
+**5. CS_418_project__source_code.ipynb:**
+The file contains the necessary source code that was utilized in the project from the start to the end. It is a file shared between two partners.
