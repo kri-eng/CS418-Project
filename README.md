@@ -18,3 +18,6 @@ The file contains the necessary source code that was utilized in the project fro
 
 **6. CS_418_Final_Project_Report.ipynb:**
 The file contains the necessary source code that was utilized in the final project report according to the requirements of the project. It is a file shared between two partners.
+
+**7. CS_418_Final_Project_Data_Cleaning_Scripts.ipynb:**
+The file contains all the necessary data cleaning that was done in order to get the required dataset on which ML Tasks can be carried out.
